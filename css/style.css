@@ -1,0 +1,87 @@
+
+body{
+    font-family: 'Josefin Sans';
+    font-weight: 600;
+}
+nav{
+    font-size: 1.5rem;
+    box-shadow: #3292A6 0px 4px 4px;
+   
+}
+.navbar-brand{
+    margin-left: 200px;
+    font-size: 2.3rem;
+    line-height: 100%;
+    text-align: center;
+}
+.navbar-brand span:hover{
+    color: #3292A6;
+
+}
+.navbar-nav{
+    margin-right: 200px;
+}
+.navbar-nav li {
+    margin-right: 20px;
+}
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(50, 147, 166, 0.7), rgba(50, 147, 166, 0.7)), url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.h1header{
+    font-size: 5rem;
+    font-weight: 300;
+    line-height:99.5%;
+}
+header .btn{
+    font-size: 2rem
+}
+.card p{
+    font-size: 1.3rem;
+}
+.card h3{
+    font-size: 1.8rem;
+}
+.why p{
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.why h2{
+    font-size: 2.1rem;
+}
+.accordion .card-header button{
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.meet h2{
+    font-size: 2.1rem;
+    
+}
+.meet p{
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+#authors h4{
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #8299B2;
+}
+#authors p{ 
+    font-size: 1.15rem;
+    font-weight: 400;
+
+}
+#authors img{
+    margin-top: -50px;
+}
+#contact p {
+    font-size: 1.5rem;
+}
+#contact span{
+    color: #3292A6;
+}
+footer p{
+    font-size: 2rem;
+}
